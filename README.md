@@ -21,8 +21,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnmai123&show_icons=true&locale=en&layout=compact" alt="hnmai123" height="200" width="auto"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hnmai123&show_icons=true&locale=en" alt="hnmai123" height="200" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnmai123&show_icons=true&locale=en&layout=compact" alt="hnmai123" height="150" width="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hnmai123&show_icons=true&locale=en" alt="hnmai123" height="150" width="auto"/>
 </div>
 
 
