@@ -46,8 +46,7 @@ ASP.NET Core • Docker • PostgreSQL • TypeScript • C++
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnmai123&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hnmai123&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnmai123&show_icons=true&locale=en&layout=compact" alt="hnmai123" height="150" width="auto"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hnmai123&show_icons=true&locale=en" alt="hnmai123" height="150" width="auto"/> 
 </div>
